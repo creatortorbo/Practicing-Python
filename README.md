@@ -1,0 +1,1 @@
+# here partices all python concepts with the ml 

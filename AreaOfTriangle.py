@@ -1,4 +1,4 @@
-# here cal the area of the trangile 
+# here cal the area of the  
 base = int(input('Enter a base :'))
 hight = int(input('Enter a hight:'))
 t = 1/2 * base * hight
